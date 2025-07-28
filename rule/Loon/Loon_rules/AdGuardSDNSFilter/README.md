@@ -1,30 +1,34 @@
-# 🧸 EasyPrivacy
+# 🧸 AdGuardSDNSFilter
 
 ## 前言
 
-![](https://shields.io/badge/-移除重复规则-ff69b4) ![](https://shields.io/badge/-DOMAIN与DOMAIN--SUFFIX合并-green) ![](https://shields.io/badge/-DOMAIN--SUFFIX间合并-critical) 
+![](https://shields.io/badge/-移除重复规则-ff69b4) ![](https://shields.io/badge/-DOMAIN与DOMAIN--SUFFIX合并-green) ![](https://shields.io/badge/-DOMAIN--SUFFIX间合并-critical) ![](https://shields.io/badge/-DOMAIN与DOMAIN--KEYWORD合并-9cf) ![](https://shields.io/badge/-DOMAIN--SUFFIX与DOMAIN--KEYWORD合并-blue) 
 
-EasyPrivacy规则由《RULE GENERATOR 规则生成器》自动生成。
+AdGuardSDNSFilter规则由《RULE GENERATOR 规则生成器》自动生成。
 
 分流规则是互联网公共服务的域名和IP地址汇总，所有数据均收集自互联网公开信息，不代表我们支持或使用这些服务。
 
 请通过【中华人民共和国 People's Republic of China】合法的互联网出入口信道访问规则中的地址，并确保在使用过程中符合相关法律法规。
 
 ## 规则说明
-AdBlock Plus EasyPrivacy，仅抽取DOMAIN-SUFFIX类型。
+AdGuard DNS Filter 规则！！
 
-其他类型后续支持。
+建议搭配子目录下的Direct进行放行！！
+
+实验性规则！！谨慎评估后使用！！
+
+如有异常请反馈！！
 
 ## 规则统计
 
-最后更新时间：2025-06-06 09:18:45
+最后更新时间：2025-06-06 09:18:34
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| DOMAIN | 8  | 
-| DOMAIN-SUFFIX | 39939  | 
-| TOTAL | 39947  | 
+| DOMAIN | 62  | 
+| DOMAIN-SUFFIX | 108988  | 
+| TOTAL | 109050  | 
 
 
 ## Loon 
@@ -37,9 +41,9 @@ AdBlock Plus EasyPrivacy，仅抽取DOMAIN-SUFFIX类型。
 
 ## 数据来源
 
-《EasyPrivacy》的数据来自以下链接，如与本项目的《EasyPrivacy》规则混合使用，可能会造成规则大量重复。
+《AdGuardSDNSFilter》的数据来自以下链接，如与本项目的《AdGuardSDNSFilter》规则混合使用，可能会造成规则大量重复。
 
-- https://easylist-downloads.adblockplus.org/easyprivacy.txt
+- https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 
 
 感谢以上规则作者的辛勤付出（排名不分先后）。
