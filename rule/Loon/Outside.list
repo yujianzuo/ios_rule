@@ -4565,3 +4565,349 @@ IP-ASN,20473,no-resolve
 IP-CIDR,24.199.123.28/32,no-resolve
 IP-CIDR,64.23.132.171/32,no-resolve
 
+# NAME: Discord
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2025-06-06 09:16:55
+# DOMAIN-SUFFIX: 29
+# TOTAL: 29
+DOMAIN-SUFFIX,airhorn.solutions
+DOMAIN-SUFFIX,airhornbot.com
+DOMAIN-SUFFIX,bigbeans.solutions
+DOMAIN-SUFFIX,dis.gd
+DOMAIN-SUFFIX,discord-activities.com
+DOMAIN-SUFFIX,discord-attachments-uploads-prd.storage.googleapis.com
+DOMAIN-SUFFIX,discord.co
+DOMAIN-SUFFIX,discord.com
+DOMAIN-SUFFIX,discord.design
+DOMAIN-SUFFIX,discord.dev
+DOMAIN-SUFFIX,discord.gg
+DOMAIN-SUFFIX,discord.gift
+DOMAIN-SUFFIX,discord.gifts
+DOMAIN-SUFFIX,discord.media
+DOMAIN-SUFFIX,discord.new
+DOMAIN-SUFFIX,discord.store
+DOMAIN-SUFFIX,discord.tools
+DOMAIN-SUFFIX,discordactivities.com
+DOMAIN-SUFFIX,discordapp.com
+DOMAIN-SUFFIX,discordapp.io
+DOMAIN-SUFFIX,discordapp.net
+DOMAIN-SUFFIX,discordapp.page.link
+DOMAIN-SUFFIX,discordcdn.com
+DOMAIN-SUFFIX,discordmerch.com
+DOMAIN-SUFFIX,discordpartygames.com
+DOMAIN-SUFFIX,discordsays.com
+DOMAIN-SUFFIX,discordstatus.com
+DOMAIN-SUFFIX,hammerandchisel.ssl.zendesk.com
+DOMAIN-SUFFIX,watchanimeattheoffice.com
+
+# NAME: DiscoveryPlus
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2025-06-06 09:17:52
+# DOMAIN: 3
+# DOMAIN-KEYWORD: 1
+# DOMAIN-SUFFIX: 11
+# USER-AGENT: 2
+# TOTAL: 17
+DOMAIN,discovery-us.conax.cloud
+DOMAIN,dplus-northamerica-cloudfront-gcs.prod-vod.h264.io
+DOMAIN,dplus-northamerica.media-edge.prod-vod.h264.io
+DOMAIN-SUFFIX,disco-api.com
+DOMAIN-SUFFIX,discovery.com
+DOMAIN-SUFFIX,discoveryplus.co.uk
+DOMAIN-SUFFIX,discoveryplus.com
+DOMAIN-SUFFIX,discoveryplus.in
+DOMAIN-SUFFIX,dnitv.com
+DOMAIN-SUFFIX,fwmrm.net
+DOMAIN-SUFFIX,getblueshift.com
+DOMAIN-SUFFIX,litix.io
+DOMAIN-SUFFIX,mobile-collector.newrelic.com
+DOMAIN-SUFFIX,uplynk.com
+DOMAIN-KEYWORD,discovery.uplynk.com
+USER-AGENT,DPlus*
+USER-AGENT,discovery+*
+
+# NAME: Disney
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2025-06-06 09:16:55
+# DOMAIN-SUFFIX: 171
+# USER-AGENT: 1
+# TOTAL: 172
+DOMAIN-SUFFIX,20thcenturystudios.com.au
+DOMAIN-SUFFIX,20thcenturystudios.com.br
+DOMAIN-SUFFIX,20thcenturystudios.jp
+DOMAIN-SUFFIX,abc-studios.com
+DOMAIN-SUFFIX,abc.com
+DOMAIN-SUFFIX,abcnews.com
+DOMAIN-SUFFIX,abcnews.edgesuite.net
+DOMAIN-SUFFIX,adobedtm.com
+DOMAIN-SUFFIX,adventuresbydisney.com
+DOMAIN-SUFFIX,babble.com
+DOMAIN-SUFFIX,babyzone.com
+DOMAIN-SUFFIX,bam.nr-data.net
+DOMAIN-SUFFIX,bamgrid.com
+DOMAIN-SUFFIX,beautyandthebeastmusical.co.uk
+DOMAIN-SUFFIX,braze.com
+DOMAIN-SUFFIX,cdn.optimizely.com
+DOMAIN-SUFFIX,conviva.com
+DOMAIN-SUFFIX,d9.flashtalking.com
+DOMAIN-SUFFIX,dilcdn.com
+DOMAIN-SUFFIX,disney-asia.com
+DOMAIN-SUFFIX,disney-discount.com
+DOMAIN-SUFFIX,disney-plus.net
+DOMAIN-SUFFIX,disney-portal.my.onetrust.com
+DOMAIN-SUFFIX,disney-studio.com
+DOMAIN-SUFFIX,disney-studio.net
+DOMAIN-SUFFIX,disney.asia
+DOMAIN-SUFFIX,disney.be
+DOMAIN-SUFFIX,disney.bg
+DOMAIN-SUFFIX,disney.ca
+DOMAIN-SUFFIX,disney.ch
+DOMAIN-SUFFIX,disney.co.il
+DOMAIN-SUFFIX,disney.co.jp
+DOMAIN-SUFFIX,disney.co.kr
+DOMAIN-SUFFIX,disney.co.th
+DOMAIN-SUFFIX,disney.co.uk
+DOMAIN-SUFFIX,disney.co.za
+DOMAIN-SUFFIX,disney.com
+DOMAIN-SUFFIX,disney.com.au
+DOMAIN-SUFFIX,disney.com.br
+DOMAIN-SUFFIX,disney.com.hk
+DOMAIN-SUFFIX,disney.com.tw
+DOMAIN-SUFFIX,disney.cz
+DOMAIN-SUFFIX,disney.de
+DOMAIN-SUFFIX,disney.demdex.net
+DOMAIN-SUFFIX,disney.dk
+DOMAIN-SUFFIX,disney.es
+DOMAIN-SUFFIX,disney.fi
+DOMAIN-SUFFIX,disney.fr
+DOMAIN-SUFFIX,disney.gr
+DOMAIN-SUFFIX,disney.hu
+DOMAIN-SUFFIX,disney.id
+DOMAIN-SUFFIX,disney.in
+DOMAIN-SUFFIX,disney.io
+DOMAIN-SUFFIX,disney.it
+DOMAIN-SUFFIX,disney.my
+DOMAIN-SUFFIX,disney.my.sentry.io
+DOMAIN-SUFFIX,disney.nl
+DOMAIN-SUFFIX,disney.no
+DOMAIN-SUFFIX,disney.ph
+DOMAIN-SUFFIX,disney.pl
+DOMAIN-SUFFIX,disney.pt
+DOMAIN-SUFFIX,disney.ro
+DOMAIN-SUFFIX,disney.ru
+DOMAIN-SUFFIX,disney.se
+DOMAIN-SUFFIX,disney.sg
+DOMAIN-SUFFIX,disneyadsales.com
+DOMAIN-SUFFIX,disneyarena.com
+DOMAIN-SUFFIX,disneyaulani.com
+DOMAIN-SUFFIX,disneybaby.com
+DOMAIN-SUFFIX,disneycareers.com
+DOMAIN-SUFFIX,disneychannelonstage.com
+DOMAIN-SUFFIX,disneychannelroadtrip.com
+DOMAIN-SUFFIX,disneycruisebrasil.com
+DOMAIN-SUFFIX,disneyenconcert.com
+DOMAIN-SUFFIX,disneyiejobs.com
+DOMAIN-SUFFIX,disneyinflight.com
+DOMAIN-SUFFIX,disneyinternational.com
+DOMAIN-SUFFIX,disneyinternationalhd.com
+DOMAIN-SUFFIX,disneyjunior.com
+DOMAIN-SUFFIX,disneyjuniortreataday.com
+DOMAIN-SUFFIX,disneylandparis.com
+DOMAIN-SUFFIX,disneylatino.com
+DOMAIN-SUFFIX,disneymagicmoments.co.il
+DOMAIN-SUFFIX,disneymagicmoments.co.uk
+DOMAIN-SUFFIX,disneymagicmoments.co.za
+DOMAIN-SUFFIX,disneymagicmoments.de
+DOMAIN-SUFFIX,disneymagicmoments.es
+DOMAIN-SUFFIX,disneymagicmoments.fr
+DOMAIN-SUFFIX,disneymagicmoments.gen.tr
+DOMAIN-SUFFIX,disneymagicmoments.gr
+DOMAIN-SUFFIX,disneymagicmoments.it
+DOMAIN-SUFFIX,disneymagicmoments.pl
+DOMAIN-SUFFIX,disneymagicmomentsme.com
+DOMAIN-SUFFIX,disneyme.com
+DOMAIN-SUFFIX,disneymeetingsandevents.com
+DOMAIN-SUFFIX,disneymovieinsiders.com
+DOMAIN-SUFFIX,disneymusicpromotion.com
+DOMAIN-SUFFIX,disneynewseries.com
+DOMAIN-SUFFIX,disneynow.com
+DOMAIN-SUFFIX,disneypeoplesurveys.com
+DOMAIN-SUFFIX,disneyplus.bn5x.net
+DOMAIN-SUFFIX,disneyplus.com
+DOMAIN-SUFFIX,disneyplus.com.ssl.sc.omtrdc.net
+DOMAIN-SUFFIX,disneyprivacycenter.com
+DOMAIN-SUFFIX,disneyredirects.com
+DOMAIN-SUFFIX,disneysrivieraresort.com
+DOMAIN-SUFFIX,disneystore.com
+DOMAIN-SUFFIX,disneystreaming.com
+DOMAIN-SUFFIX,disneysubscription.com
+DOMAIN-SUFFIX,disneytermsofuse.com
+DOMAIN-SUFFIX,disneytickets.co.uk
+DOMAIN-SUFFIX,disneyturkiye.com.tr
+DOMAIN-SUFFIX,disneytvajobs.com
+DOMAIN-SUFFIX,disneyworld-go.com
+DOMAIN-SUFFIX,dlp-media.com
+DOMAIN-SUFFIX,dmed.technology
+DOMAIN-SUFFIX,dssott.com
+DOMAIN-SUFFIX,dtci.co
+DOMAIN-SUFFIX,dtci.technology
+DOMAIN-SUFFIX,edgedatg.com
+DOMAIN-SUFFIX,espn.co.uk
+DOMAIN-SUFFIX,espn.com
+DOMAIN-SUFFIX,espn.hb.omtrdc.net
+DOMAIN-SUFFIX,espn.net
+DOMAIN-SUFFIX,espncdn.com
+DOMAIN-SUFFIX,espndotcom.tt.omtrdc.net
+DOMAIN-SUFFIX,espnqa.com
+DOMAIN-SUFFIX,execute-api.us-east-1.amazonaws.com
+DOMAIN-SUFFIX,go-disneyworldgo.com
+DOMAIN-SUFFIX,go.com
+DOMAIN-SUFFIX,hotstar-cdn.net
+DOMAIN-SUFFIX,hotstar-labs.com
+DOMAIN-SUFFIX,hotstar.com
+DOMAIN-SUFFIX,hotstarext.com
+DOMAIN-SUFFIX,hsprepack.akamaized.net
+DOMAIN-SUFFIX,js-agent.newrelic.com
+DOMAIN-SUFFIX,marvel.com
+DOMAIN-SUFFIX,marvel10thanniversary.com
+DOMAIN-SUFFIX,marveldimensionofheroes.com
+DOMAIN-SUFFIX,marvelparty.net
+DOMAIN-SUFFIX,marvelpinball.com
+DOMAIN-SUFFIX,marvelsdoubleagent.com
+DOMAIN-SUFFIX,marvelspotlightplays.com
+DOMAIN-SUFFIX,marvelsuperheroseptember.com
+DOMAIN-SUFFIX,marvelsuperwar.com
+DOMAIN-SUFFIX,mickey.tv
+DOMAIN-SUFFIX,moviesanywhere.com
+DOMAIN-SUFFIX,natgeomaps.com
+DOMAIN-SUFFIX,nationalgeographic.com
+DOMAIN-SUFFIX,nationalgeographicpartners.com
+DOMAIN-SUFFIX,ngeo.com
+DOMAIN-SUFFIX,nomadlandmovie.ch
+DOMAIN-SUFFIX,playmation.com
+DOMAIN-SUFFIX,shopdisney.com
+DOMAIN-SUFFIX,shops-disney.com
+DOMAIN-SUFFIX,sorcerersarena.com
+DOMAIN-SUFFIX,spaindisney.com
+DOMAIN-SUFFIX,star-brasil.com
+DOMAIN-SUFFIX,star-latam.com
+DOMAIN-SUFFIX,starott.com
+DOMAIN-SUFFIX,starplus.com
+DOMAIN-SUFFIX,starwars.com
+DOMAIN-SUFFIX,starwarsgalacticstarcruiser.com
+DOMAIN-SUFFIX,starwarskids.com
+DOMAIN-SUFFIX,streamingdisney.net
+DOMAIN-SUFFIX,themarvelexperiencetour.com
+DOMAIN-SUFFIX,thestationbymaker.com
+DOMAIN-SUFFIX,thewaltdisneycompany.com
+DOMAIN-SUFFIX,thisispolaris.com
+DOMAIN-SUFFIX,watchdisneyfe.com
+DOMAIN-SUFFIX,watchespn.com
+USER-AGENT,Disney+*
+
+# NAME: DMM_Resolve
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2025-06-06 09:18:49
+# DOMAIN-SUFFIX: 18
+# IP-CIDR: 2
+# TOTAL: 20
+DOMAIN-SUFFIX,akabeesoft2.com
+DOMAIN-SUFFIX,akabeesoft3.com
+DOMAIN-SUFFIX,akatsukiworks.com
+DOMAIN-SUFFIX,alicesoft.com
+DOMAIN-SUFFIX,api-p.videomarket.jp
+DOMAIN-SUFFIX,cosmiccute.com
+DOMAIN-SUFFIX,ddo.jp
+DOMAIN-SUFFIX,dmm-extension.com
+DOMAIN-SUFFIX,dmm.co.jp
+DOMAIN-SUFFIX,dmm.com
+DOMAIN-SUFFIX,dmm.hk
+DOMAIN-SUFFIX,dmmapis.com
+DOMAIN-SUFFIX,dmmrex.com
+DOMAIN-SUFFIX,hibiki-site.com
+DOMAIN-SUFFIX,minori.ph
+DOMAIN-SUFFIX,navismithapis-cdn.com
+DOMAIN-SUFFIX,tenco.cc
+DOMAIN-SUFFIX,wheel-soft.com
+IP-CIDR,125.6.189.7/32
+IP-CIDR,203.104.209.7/32
+
+# NAME: DMM
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2025-06-06 09:18:49
+# DOMAIN-SUFFIX: 18
+# IP-CIDR: 2
+# TOTAL: 20
+DOMAIN-SUFFIX,akabeesoft2.com
+DOMAIN-SUFFIX,akabeesoft3.com
+DOMAIN-SUFFIX,akatsukiworks.com
+DOMAIN-SUFFIX,alicesoft.com
+DOMAIN-SUFFIX,api-p.videomarket.jp
+DOMAIN-SUFFIX,cosmiccute.com
+DOMAIN-SUFFIX,ddo.jp
+DOMAIN-SUFFIX,dmm-extension.com
+DOMAIN-SUFFIX,dmm.co.jp
+DOMAIN-SUFFIX,dmm.com
+DOMAIN-SUFFIX,dmm.hk
+DOMAIN-SUFFIX,dmmapis.com
+DOMAIN-SUFFIX,dmmrex.com
+DOMAIN-SUFFIX,hibiki-site.com
+DOMAIN-SUFFIX,minori.ph
+DOMAIN-SUFFIX,navismithapis-cdn.com
+DOMAIN-SUFFIX,tenco.cc
+DOMAIN-SUFFIX,wheel-soft.com
+IP-CIDR,125.6.189.7/32,no-resolve
+IP-CIDR,203.104.209.7/32,no-resolve
+
+# NAME: Docker
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2025-06-06 09:17:43
+# DOMAIN: 3
+# DOMAIN-SUFFIX: 4
+# TOTAL: 7
+DOMAIN,d1q6f0aelx0por.cloudfront.net
+DOMAIN,d2wy8f7a9ursnm.cloudfront.net
+DOMAIN,d36jcksde1wxzq.cloudfront.net
+DOMAIN-SUFFIX,compose-spec.io
+DOMAIN-SUFFIX,docker.com
+DOMAIN-SUFFIX,docker.io
+DOMAIN-SUFFIX,dockerhub.com
+
+# NAME: Domob
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2025-06-06 09:17:33
+# DOMAIN-SUFFIX: 26
+# TOTAL: 26
+DOMAIN-SUFFIX,dmaow.com
+DOMAIN-SUFFIX,dmrta.com
+DOMAIN-SUFFIX,dmrtb.cn
+DOMAIN-SUFFIX,dmrtb.com
+DOMAIN-SUFFIX,dmvideo.cn
+DOMAIN-SUFFIX,dmvideo.mobi
+DOMAIN-SUFFIX,dmvideo.net
+DOMAIN-SUFFIX,dmvideo.org
+DOMAIN-SUFFIX,dmyouxi.com
+DOMAIN-SUFFIX,domob-inc.cn
+DOMAIN-SUFFIX,domob-inc.com
+DOMAIN-SUFFIX,domob.cn
+DOMAIN-SUFFIX,domob.com.cn
+DOMAIN-SUFFIX,domob.org
+DOMAIN-SUFFIX,domobcdn.cn
+DOMAIN-SUFFIX,domobcdn.com
+DOMAIN-SUFFIX,domobnetwork.com
+DOMAIN-SUFFIX,duomeng.cn
+DOMAIN-SUFFIX,duomeng.net
+DOMAIN-SUFFIX,duomeng.org
+DOMAIN-SUFFIX,modh.cn
+DOMAIN-SUFFIX,modh.com.cn
+DOMAIN-SUFFIX,moxz.cn
+DOMAIN-SUFFIX,moxz.net
+DOMAIN-SUFFIX,ugdesk.cn
+DOMAIN-SUFFIX,ugdesk.com
